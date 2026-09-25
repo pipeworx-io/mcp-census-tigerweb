@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-census-tigerweb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "US Census TIGERweb MCP — the Census Bureau's ArcGIS REST geography service",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b37b0011a9e2648bd6b2d854bedea27adb4c665d4dbbf56ddbaa1efeed30279a",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-4e5ee17ecd15e8627559da341f69b3a6a97c8755645e2ba71cc1b9037076c9a0",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }

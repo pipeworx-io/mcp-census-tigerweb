@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/census-tigerweb",
   "title": "Census Tigerweb",
   "description": "US Census TIGERweb MCP — the Census Bureau's ArcGIS REST geography service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/census-tigerweb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-census-tigerweb",
